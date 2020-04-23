@@ -1,0 +1,10 @@
+{
+   "type" : "record",
+   "protocol": "xml",
+   "namespace" : "xmlpoc",
+   "name" : "Employee",
+   "fields" : [
+      { "name" : "Name" , "type" : "string" },
+      { "name" : "Id" , "type" : "int" }
+   ]
+}
